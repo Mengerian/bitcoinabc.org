@@ -911,7 +911,7 @@ body .tile .social-img {
 }
 .rm-title-row:before {
   width:67%;
-  position:absolute;
+  position: absolute;
   content:"";
   height:6px;
   background:#999999;
@@ -1029,14 +1029,14 @@ body .tile .social-img {
   position:absolute;
   width:6px;
   background:#999999;
-  height:105.9%;
+  height:105%;
   top:-30px;
   left:50%;
   margin-left:-3px;
   z-index:-9;
 }
 .rm-extensibility .rm-list:before {
-  height:103.8%;
+  height:104.2%;
 }
 .rm-list li{
   background:#444;
