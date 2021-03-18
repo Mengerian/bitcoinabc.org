@@ -1010,7 +1010,7 @@ body .tile .social-img {
   background:#ebebeb;
   border:1px solid #e1e1e1;
   border-radius:30px;
-  /*display:inline-block;*/
+  display:inline-block;
   color:#707070;
   text-transform:uppercase;
   margin: 0 0 2em 0;
